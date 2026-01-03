@@ -1,5 +1,5 @@
-Name1 = Rohith
-Name2 = Ram
+Name1=Rohith
+Name2=Ram
 
 echo " $Name1:: Hi Anna. How are you?"
 echo " $Name2:: Hi ra. Iam fine how are you?"

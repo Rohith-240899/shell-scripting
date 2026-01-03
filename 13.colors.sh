@@ -5,5 +5,5 @@ G="\e[32m"
 Y="\e[33m"
 N="\e[0m"
 
-echo -e " $R hellow world"
+echo -e " $R hellow world $N"
 echo " check this color"

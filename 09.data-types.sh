@@ -11,4 +11,5 @@ echo "the sum of 2 number is: $SUM"
 
 LEADERS=("Modi" "Rohith" "Chinnu")
 
-echo "All Leaders: $LEADERS[@]"
+echo "All Leaders: ${LEADERS[1]}"
+

@@ -35,4 +35,5 @@ do
         VALIDATE $? "$package"
     else
         echo " $package is already exit...$Y SKIPPING $N"
+    fi
 done
